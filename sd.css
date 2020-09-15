@@ -1,0 +1,9 @@
+:root {
+    --text-color: #684f40;
+    --logo-color: #dfa42f;
+}
+
+body {
+    display: grid;
+    font-family: 'Nunito Sans', sans-serif;
+}
